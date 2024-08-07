@@ -174,89 +174,78 @@ span{
   height: 30px; 
  padding: 10px 5px 22px 5px;
   border-radius: 15px;
-  background: rgba(0, 0, 0, 0);
+  background:black;
   color: #06c;
   border-color: #06c;
 }
 
 .page4{
-  text-align: center;
- padding-top: 70px;
- font-size: 30px;
- font-weight: bold;
- color:white;
- background-image: url(./images/ipad_pro_13_m4_cellular_space_black_01.jpeg);
- height: 70%;
- width: 50%;
- background-size: cover;
- display: inline-block;
-
-}
-.page5{
+  margin: 5px;
   text-align: center;
   padding-top: 70px;
-  font-size: 30px;
-  font-weight: bold;
-  color: black;
-  background-image: url(./images/pexels-regeci-16891501.jpg);
-  height: 50%;
-  width: 45%;
+  background-image: url(./images/ipad_pro_13_m4_cellular_space_black_01.jpeg);
+  height: 80%;
+  width: 48%;
   background-size: cover;
   display: inline-block;
-  
+}
+.page5{
+  margin: 3px;
+  text-align: center;
+  padding-top: 70px;
+  background-image: url(./images/pexels-regeci-16891501.jpg);
+  height: 80%;
+  width: 50%;
+  background-size: cover;
+  display: inline-block;
 }
 
 .page6{
+  margin: 5px;
   text-align: center;
   padding-top: 70px;
-  font-size: 30px;
-  font-weight: bold;
-  color: black;
   background-image: url(./images/pexels-regeci-16891501.jpg);
-  height: 50%;
-  width: 30%;
+  height: 80%;
+  width: 48%;
   background-size: cover;
-  display: inline-block;
-  
+  display: inline-block; 
 }
 .page7{
+  margin: 3px;
   text-align: center;
   padding-top: 70px;
-  font-size: 30px;
-  font-weight: bold;
-  color: black;
   background-image: url(./images/pexels-regeci-16891501.jpg);
-  height: 30%;
-  width: 30%;
+  height: 80%;
+  width: 50%;
   background-size: cover;
-  display: inline-block;
-  
+  display: inline-block; 
 }
 .page8{
+  margin: 5px;
   text-align: center;
   padding-top: 70px;
-  font-size: 30px;
-  font-weight: bold;
-  color: black;
   background-image: url(./images/pexels-regeci-16891501.jpg);
-  height: 50%;
-  width: 40%;
+  height: 80%;
+  width: 48%;
   background-size: cover;
   display: inline-block;
-
-  
 }
 .page9{
+  margin: 3px;
   text-align: center;
   padding-top: 70px;
-  font-size: 30px;
-  font-weight: bold;
-  color: black;
   background-image: url(./images/pexels-regeci-16891501.jpg);
-  height: 50%;
-  width: 45%;
+  height: 80%;
+  width: 48%;
   background-size: cover;
   display: inline-block;
-
- 
+}
+#btn4{
+  width: 20%;
+  height: 40px; 
+  padding: 10px 5px 22px 5px;
+  border-radius: 15px;
+  background: #006EDB;
+  color: #fff;
+  border-color: #06c;
 }
