@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
 nav{
@@ -14,7 +14,7 @@ nav{
 }
 
 span{
-    margin: 11px;
+    margin: 13px;
     font-size: 13px;
     opacity:0.5 ;
     padding-left: 45px;
@@ -139,6 +139,7 @@ span{
  #btn{
    width: 100px;
   height: 30px;
+  padding: 10px 5px 22px 5px;
   border-radius: 30px;
   background: #006EDB;
   color: #fff;
@@ -150,10 +151,112 @@ span{
  
   width: 100px;
   height: 30px; 
-/*  padding: 10px; */
+  padding: 10px 5px 22px 5px;
   border-radius: 15px;
   background-color:black;
   color:#2997ff;
   border-color:#006EDB;
  }
  
+ .page2{
+ text-align: center;
+ padding-top: 70px;
+ font-size: 30px;
+ font-weight: bold;
+ color: black;
+ background-image: url(./images/pexels-regeci-16891501.jpg);
+ height: 100%;
+ width: 100%;
+ background-size: cover;
+ }
+#btn3{
+  width: 90px;
+  height: 30px; 
+ padding: 10px 5px 22px 5px;
+  border-radius: 15px;
+  background: rgba(0, 0, 0, 0);
+  color: #06c;
+  border-color: #06c;
+}
+
+.page4{
+  text-align: center;
+ padding-top: 70px;
+ font-size: 30px;
+ font-weight: bold;
+ color:white;
+ background-image: url(./images/ipad_pro_13_m4_cellular_space_black_01.jpeg);
+ height: 70%;
+ width: 50%;
+ background-size: cover;
+ display: inline-block;
+
+}
+.page5{
+  text-align: center;
+  padding-top: 70px;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  background-image: url(./images/pexels-regeci-16891501.jpg);
+  height: 50%;
+  width: 45%;
+  background-size: cover;
+  display: inline-block;
+  
+}
+
+.page6{
+  text-align: center;
+  padding-top: 70px;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  background-image: url(./images/pexels-regeci-16891501.jpg);
+  height: 50%;
+  width: 30%;
+  background-size: cover;
+  display: inline-block;
+  
+}
+.page7{
+  text-align: center;
+  padding-top: 70px;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  background-image: url(./images/pexels-regeci-16891501.jpg);
+  height: 30%;
+  width: 30%;
+  background-size: cover;
+  display: inline-block;
+  
+}
+.page8{
+  text-align: center;
+  padding-top: 70px;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  background-image: url(./images/pexels-regeci-16891501.jpg);
+  height: 50%;
+  width: 40%;
+  background-size: cover;
+  display: inline-block;
+
+  
+}
+.page9{
+  text-align: center;
+  padding-top: 70px;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  background-image: url(./images/pexels-regeci-16891501.jpg);
+  height: 50%;
+  width: 45%;
+  background-size: cover;
+  display: inline-block;
+
+ 
+}
