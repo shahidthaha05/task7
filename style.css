@@ -130,7 +130,7 @@ span{
   font-size: large;
   font-weight: bold;
   color: white;
-  background-image: url(./images/pexels-falcon-9867098.jpg);
+  background-image: url(./images/iphone-15-pro-review-10-1695086152260.jpg);
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -163,8 +163,8 @@ span{
  padding-top: 70px;
  font-size: 30px;
  font-weight: bold;
- color: black;
- background-image: url(./images/pexels-regeci-16891501.jpg);
+ color: white;
+ background-image: url(./images/Apple-iPhone-15-Pro-lineup-hero-230912_Full-Bleed-Image.jpg.large.jpg);
  height: 100%;
  width: 100%;
  background-size: cover;
@@ -183,7 +183,7 @@ span{
   margin: 5px;
   text-align: center;
   padding-top: 70px;
-  background-image: url(./images/ipad_pro_13_m4_cellular_space_black_01.jpeg);
+  background-image: url(./images/Apple\ iPads\ with\ 15-inch\ OLED\ display\ likely\ not\ possible\ till\ 2024.jpeg);
   height: 80%;
   width: 48%;
   color: white;
@@ -194,7 +194,7 @@ span{
   margin: 3px;
   text-align: center;
   padding-top: 70px;
-  background-image: url(./images/pexels-regeci-16891501.jpg);
+  background-image: url(./images/Macbook\ Pro\ Mockup.jpeg);
   height: 80%;
   width: 50%;
   background-size: cover;
@@ -205,9 +205,10 @@ span{
   margin: 5px;
   text-align: center;
   padding-top: 70px;
-  background-image: url(./images/pexels-regeci-16891501.jpg);
+  background-image: url(./images/hero_endframe__b8te205r9u02_large.jpg);
   height: 80%;
   width: 48%;
+  color: white;
   background-size: cover;
   display: inline-block; 
 }
@@ -215,7 +216,7 @@ span{
   margin: 3px;
   text-align: center;
   padding-top: 70px;
-  background-image: url(./images/pexels-regeci-16891501.jpg);
+  background-image: url(./images/apple-intelligence-110609764-16x9.webp);
   height: 80%;
   width: 50%;
   background-size: cover;
@@ -235,7 +236,7 @@ span{
   margin: 3px;
   text-align: center;
   padding-top: 70px;
-  background-image: url(./images/pexels-regeci-16891501.jpg);
+  background-image: url(./images/Untitled.png);
   height: 80%;
   width: 50%;
   background-size: cover;
@@ -260,9 +261,28 @@ span{
   color: #06c;
   border-color: #06c;
 }
-.page10{
-  background-image: url(./images/pexels-regeci-16891501.jpg);
-  height: 100%;
-  width: 100%;
+.pages{
+
+  background-image: url(./images/kgf-chapter-2-hd-poster-1024x512.jpg);
   background-size: cover;
+  height: 90%;
+  width: 100%;
+}
+#movies{
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  padding-top: 41%;
+  padding-right: 50%;
+}
+#btn6{
+  text-align: center;
+  width: 120px;
+  height: 35px; 
+   border-radius: 15px; 
+  background:white;
+  color: black;
+  border-color:transparent;
+
 }
