@@ -14,7 +14,7 @@ nav{
 }
 
 span{
-    margin: 13px;
+    margin: 9px;
     font-size: 13px;
     opacity:0.5 ;
     padding-left: 45px;
@@ -151,7 +151,7 @@ span{
  
   width: 100px;
   height: 30px; 
-  padding: 10px 5px 22px 5px;
+  padding: 7px 15px;
   border-radius: 15px;
   background-color:black;
   color:#2997ff;
@@ -172,9 +172,9 @@ span{
 #btn3{
   width: 90px;
   height: 30px; 
- padding: 10px 5px 22px 5px;
+ padding: 7px 15px;
   border-radius: 15px;
-  background:black;
+  background:white;
   color: #06c;
   border-color: #06c;
 }
@@ -186,6 +186,7 @@ span{
   background-image: url(./images/ipad_pro_13_m4_cellular_space_black_01.jpeg);
   height: 80%;
   width: 48%;
+  color: white;
   background-size: cover;
   display: inline-block;
 }
@@ -236,16 +237,32 @@ span{
   padding-top: 70px;
   background-image: url(./images/pexels-regeci-16891501.jpg);
   height: 80%;
-  width: 48%;
+  width: 50%;
   background-size: cover;
   display: inline-block;
 }
 #btn4{
   width: 20%;
   height: 40px; 
-  padding: 10px 5px 22px 5px;
+  padding:7px 15px;
   border-radius: 15px;
   background: #006EDB;
   color: #fff;
   border-color: #06c;
+}
+
+#btn5{
+  width: 120px;
+  height: 35px; 
+ padding: 7px 15px;
+  border-radius: 15px;
+  background:white;
+  color: #06c;
+  border-color: #06c;
+}
+.page10{
+  background-image: url(./images/pexels-regeci-16891501.jpg);
+  height: 100%;
+  width: 100%;
+  background-size: cover;
 }
