@@ -169,6 +169,29 @@ span{
  width: 100%;
  background-size: cover;
  }
+ .page3{
+   text-align: center;
+ padding-top: 70px;
+ font-size: 30px;
+ font-weight: bold;
+ color: white; 
+
+ background-image: url(./images/Apple-iPhone-15-Pro-lineup-hero-230912_Full-Bleed-Image.jpg.large.jpg);
+ height: 100%;
+ width: 100%;
+ background-size: cover;
+ }
+ #shop{
+  margin-top: 700px;
+  text-align: center;
+  width: 120px;
+  height: 35px; 
+   border-radius: 15px; 
+  background:white;
+  color: #06c;
+  border-color: #06c;
+}
+
 #btn3{
   width: 90px;
   height: 30px; 
@@ -222,6 +245,10 @@ span{
   background-size: cover;
   display: inline-block; 
 }
+#watch9{
+  text-align: center;
+  color: red;
+}
 .page8{
   margin: 5px;
   text-align: center;
@@ -262,27 +289,27 @@ span{
   border-color: #06c;
 }
 .pages{
-
   background-image: url(./images/kgf-chapter-2-hd-poster-1024x512.jpg);
   background-size: cover;
   height: 90%;
   width: 100%;
 }
-#movies{
+ /* #movies{
   font-size: large;
   font-weight: bold;
   color: white;
   text-align: center;
   padding-top: 41%;
   padding-right: 50%;
-}
-#btn6{
+} */
+ #btn6{
+  margin-top: 600px;
   text-align: center;
-  width: 120px;
-  height: 35px; 
+  width: 97px;
+  height: 19px; 
    border-radius: 15px; 
   background:white;
-  color: black;
-  border-color:transparent;
-
+  color: #06c;
+  border-color: #06c;
+  padding: 7px 15px;
 }
